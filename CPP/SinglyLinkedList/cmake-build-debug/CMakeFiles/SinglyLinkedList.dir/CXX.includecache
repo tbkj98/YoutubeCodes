@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tbkj/Youtube/Codes/CPP/SinglyLinkedList/LinkedList.h
+Node.h
+/home/tbkj/Youtube/Codes/CPP/SinglyLinkedList/Node.h
+iostream
+-
+
+/home/tbkj/Youtube/Codes/CPP/SinglyLinkedList/Node.h
+
+/home/tbkj/Youtube/Codes/CPP/SinglyLinkedList/main.cpp
+LinkedList.h
+/home/tbkj/Youtube/Codes/CPP/SinglyLinkedList/LinkedList.h
+
